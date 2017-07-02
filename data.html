@@ -1,96 +1,67 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        img,
+        video {
+            width: 100%
+        }
+        
+        .block_timer_share {
+            display: none;
+        }
+        
+        .social_share {
+            display: none;
+        }
+    </style>
+
+</head>
+
+<body>
+    <video id='videoPlayer' controls="controls">
+      <source id='mp4Source' src="movie.mp4" type="video/mp4" />
+      <source id='oggSource' src="movie.ogg" type="video/ogg" />
+    </video>
+
+    <script>
+        config_play = {
+            live: '',
+            h5p: '',
+            ads: 1,
+            zone: 0,
+            dfp: 'https://pubads.g.doubleclick.net/gampad/live/ads?sz=640x360|400x300|480x70|640x480|320x180&iu=/27973503/video.vnexpress.net/Phapluat&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&url=[referrer_url]&description_url=[description_url]&correlator=[timestamp]',
+            url: 'http://video.vnexpress.net/tin-tuc/phap-luat/luat-su-phuong-nga-ke-chuyen-bi-than-chu-tham-van-nguoc-3607231.html',
+            title: 'Luật sư Phương Nga kể chuyện bị thân chủ thẩm vấn ngược',
+            s240: 'http://news.video.vnecdn.net/video/web/mp4/240p/2017/06/30/luat-su-phuong-nga-ke-chuyen-bi-than-chu-tham-van-nguoc-1498835599.mp4',
+            s360: 'http://news.video.vnecdn.net/video/web/mp4/360p/2017/06/30/luat-su-phuong-nga-ke-chuyen-bi-than-chu-tham-van-nguoc-1498835599.mp4',
+            s480: 'http://news.video.vnecdn.net/video/web/mp4/480p/2017/06/30/luat-su-phuong-nga-ke-chuyen-bi-than-chu-tham-van-nguoc-1498835599.mp4',
+            s720: 'http://news.video.vnecdn.net/video/web/mp4/2017/06/30/luat-su-phuong-nga-ke-chuyen-bi-than-chu-tham-van-nguoc-1498835599.mp4',
+            v_ex: 'bs=0'
+        };
+        var player = document.getElementById('videoPlayer');
+
+        var mp4Vid = document.getElementById('mp4Source');
+
+        player.pause();
+
+        // Now simply set the 'src' property of the mp4Vid variable!!!!
+
+
+        mp4Vid.src = config_play.s480;
+        // mp4Vid.src = 'http://news.video.vnecdn.net/video/web/mp4/2017/06/30/luat-su-phuong-nga-ke-chuyen-bi-than-chu-tham-van-nguoc-1498835599.mp4';
+        player.load();
+        player.play();
+        console.log("run rồi");
+        console.log(config_play.s480);
+        console.log(config_play);
+    </script>
+
+
+</body>
+
+</html>
