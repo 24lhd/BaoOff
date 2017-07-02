@@ -1,15 +1,9 @@
 var express = require('express');
 var fs = require('fs');
-console.log(fs.readFileSync('http://vnexpress.net/rss/tin-moi-nhat.rss', { encoding: 'utf-8' }));
 
 
 
-var externalURL = 'http://vnexpress.net/rss/tin-moi-nhat.rss';
 
-console.log(fs.readFile(externalURL, function(err, data) {
-    var fileData = new Buffer(data).toString('utf-8');
-    console.log(data);
-}));
 
 var app = express();
 
@@ -23,5 +17,8 @@ app.get("/:abc", function(req, res) {
     
     <h1>${req.params.abc}</h1>`);
 });
-
+app.set('view engine', 'jade');
+app.get('/x/test', function(req, res) {
+    res.sendfile('public/content.html', { root: __dirname })
+});
 app.listen(81);

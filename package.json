@@ -18,6 +18,7 @@
   "homepage": "https://github.com/24lhd/BaoOff#readme",
   "dependencies": {
     "express": "^4.15.3",
+    "jsdom": "^11.0.0",
     "xml2js": "^0.4.17"
   }
 }

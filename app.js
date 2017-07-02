@@ -5,9 +5,10 @@ var parser = new xml2js.Parser();
 var file = fs.createWriteStream(__dirname + "/public/data.xml");
 
 
-var request = http.get("http://vnexpress.net/rss/tin-moi-nhat.rss", function(response) {
+var request = http.get("http://dantri.com.vn/suc-khoe.rss", function(response) {
     response.pipe(file);
     response.on("end", function() {
+        //ok
         console.log("xong");
         fs.readFile(__dirname + "/public/data.xml", function(err, result) {
             parser.parseString(result, function(err, data) {

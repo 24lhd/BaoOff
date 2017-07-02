@@ -1,215 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
-  <channel>
-    <title>Tin mới nhất - VnExpress RSS</title>
-    <description>VnExpress RSS</description>
-    <image>
-      <url>https://s.vnecdn.net/vnexpress/i/v20/logos/vne_logo_rss.png</url>
-      <title>Tin nhanh VnExpress - Đọc báo, tin tức online 24h</title>
-      <link>http://vnexpress.net</link>
-    </image>
-    <pubDate>Fri, 30 Jun 2017 14:08:07 +0700</pubDate>
-    <generator>VnExpress</generator>
-    <link>http://vnexpress.net/rss/tin-moi-nhat.rss</link>
+<rss version="2.0" encoding="utf-8">
+  <channel rel="self">
+    <title><![CDATA[Sức khỏe - Dân trí điện tử - Dantri.com.vn]]></title>
+    <link><![CDATA[http://dantri.com.vn/suc-khoe.htm]]></link>
+    <description><![CDATA[thông tin và kiến thức về các bệnh thường gặp, kiến thức bảo vệ sức khoẻ cho mọi người. Các thông tin y tế trong và ngoài nước, thông tin đánh giá và tư vấn sức khoẻ bởi các chuyên gia y tế. Thông tin dịch bệnh và cách phòng tránh.]]></description>
+    <ttl>10</ttl>
+    <copyright>dantri.com.vn</copyright>
+    <pubDate>Sat, 01 Jul 2017 21:56:31 GMT+7</pubDate>
+    <generator>Dân trí</generator>
+    <docs>http://dantri.com.vn</docs>
     <item>
-      <title>Vườn hoa cẩm tú cách Hà Nội vài giờ chạy xe</title>
-      <description><![CDATA[<a href="http://dulich.vnexpress.net/photo/anh-video/vuon-hoa-cam-tu-cach-ha-noi-vai-gio-chay-xe-3606133.html"><img width=130 height=100 src="http://img.f36.dulich.vnecdn.net/2017/06/28/7-1498648996_180x108.jpg" ></a></br>Không chỉ Đà Lạt mà Cao Bằng cũng có một vườn hoa cẩm tú cầu rực rỡ thu hút các bạn trẻ đến chụp ảnh.]]></description>
-      <pubDate>Fri, 30 Jun 2017 14:05:00 +0700</pubDate>
-      <link>http://dulich.vnexpress.net/photo/anh-video/vuon-hoa-cam-tu-cach-ha-noi-vai-gio-chay-xe-3606133.html</link>
-      <guid>http://dulich.vnexpress.net/photo/anh-video/vuon-hoa-cam-tu-cach-ha-noi-vai-gio-chay-xe-3606133.html</guid>
-      <slash:comments>0</slash:comments>
+      <title><![CDATA[Bệnh nhân chạy thận của bệnh viện đa khoa tỉnh Hòa Bình sẽ chuyển đi đâu?]]></title>
+      <link><![CDATA[http://dantri.com.vn/suc-khoe/benh-nhan-chay-than-cua-benh-vien-da-khoa-tinh-hoa-binh-se-chuyen-di-dau-20170701180911173.htm]]></link>
+      <guid isPermaLink="false"><![CDATA[ccb99765-8390-42d2-9418-19fc61ba01e6]]></guid>
+      <description><![CDATA[<a href="http://dantri.com.vn/suc-khoe/benh-nhan-chay-than-cua-benh-vien-da-khoa-tinh-hoa-binh-se-chuyen-di-dau-20170701180911173.htm"><img src="https://dantricdn.com/zoom/80_50/2017/chay-than-2-1498907120444.jpg" /></a>]]></description>
+      <pubDate><![CDATA[Sat, 01 Jul 2017 18:08:00 GMT+7]]></pubDate>
     </item>
     <item>
-      <title>Hoa súng Việt Nam lọt ảnh thiên nhiên ấn tượng tháng 6</title>
-      <description><![CDATA[<a href="http://vnexpress.net/projects/hoa-sung-viet-nam-lot-anh-thien-nhien-an-tuong-thang-6-3606664/index.html"><img width=130 height=100 src="http://img.f29.vnecdn.net/2017/06/29/NGThang6Top-1498729916-4693-1498729919_180x108.jpg" ></a></br>Hình ảnh một phụ nữ Việt Nam hái hoa súng ở châu thổ sông Mekong nằm trong số những bức ảnh ấn tượng tháng 6 trên trang National Geographic.]]></description>
-      <pubDate>Fri, 30 Jun 2017 14:04:52 +0700</pubDate>
-      <link>http://vnexpress.net/projects/hoa-sung-viet-nam-lot-anh-thien-nhien-an-tuong-thang-6-3606664/index.html</link>
-      <guid>http://vnexpress.net/projects/hoa-sung-viet-nam-lot-anh-thien-nhien-an-tuong-thang-6-3606664/index.html</guid>
-      <slash:comments>0</slash:comments>
+      <title><![CDATA[Hy hữu người đàn ông sống chung với làn da vỏ cây 6 thập kỷ]]></title>
+      <link><![CDATA[http://dantri.com.vn/suc-khoe/hy-huu-nguoi-dan-ong-song-chung-voi-lan-da-vo-cay-6-thap-ky-2017070107585702.htm]]></link>
+      <guid isPermaLink="false"><![CDATA[2e6f2d8b-6809-459f-b263-29f2ec26d83e]]></guid>
+      <description><![CDATA[<a href="http://dantri.com.vn/suc-khoe/hy-huu-nguoi-dan-ong-song-chung-voi-lan-da-vo-cay-6-thap-ky-2017070107585702.htm"><img src="https://dantricdn.com/zoom/80_50/2017/nguoi-cay-2-1498870094967.jpg" /></a>]]></description>
+      <pubDate><![CDATA[Sat, 01 Jul 2017 17:53:00 GMT+7]]></pubDate>
     </item>
     <item>
-      <title>Tiêu chảy kéo dài cảnh báo bệnh não nghiêm trọng</title>
-      <description><![CDATA[<a href="http://suckhoe.vnexpress.net/tin-tuc/cac-benh/tieu-chay-keo-dai-canh-bao-benh-nao-nghiem-trong-3606961.html"><img width=130 height=100 src="http://img.f43.suckhoe.vnecdn.net/2017/06/30/diarrhea-7358-1498794716_180x108.jpg" ></a></br>Các nhà khoa học Mỹ nhận định tiêu chảy kéo dài làm tăng loại protein liên quan đến Parkinson, rối loạn thoái hóa thần kinh không thể chữa khỏi.]]></description>
-      <pubDate>Fri, 30 Jun 2017 14:02:30 +0700</pubDate>
-      <link>http://suckhoe.vnexpress.net/tin-tuc/cac-benh/tieu-chay-keo-dai-canh-bao-benh-nao-nghiem-trong-3606961.html</link>
-      <guid>http://suckhoe.vnexpress.net/tin-tuc/cac-benh/tieu-chay-keo-dai-canh-bao-benh-nao-nghiem-trong-3606961.html</guid>
-      <slash:comments>0</slash:comments>
+      <title><![CDATA[Hành trình Đỏ vận động hiến máu xuyên Việt xuất quân tại Đất mũi Cà Mau]]></title>
+      <link><![CDATA[http://dantri.com.vn/suc-khoe/hanh-trinh-do-van-dong-hien-mau-xuyen-viet-xuat-quan-tai-dat-mui-ca-mau-20170701173326513.htm]]></link>
+      <guid isPermaLink="false"><![CDATA[b275263e-da40-4f08-8ecd-b9f3bdff810e]]></guid>
+      <description><![CDATA[<a href="http://dantri.com.vn/suc-khoe/hanh-trinh-do-van-dong-hien-mau-xuyen-viet-xuat-quan-tai-dat-mui-ca-mau-20170701173326513.htm"><img src="https://dantricdn.com/zoom/80_50/2017/hanhtrinhdo2-1498904627863.jpg" /></a>]]></description>
+      <pubDate><![CDATA[Sat, 01 Jul 2017 17:33:00 GMT+7]]></pubDate>
     </item>
     <item>
-      <title>Bác sĩ bỏ quên máy quay trong bụng bệnh nhân</title>
-      <description><![CDATA[<a href="http://suckhoe.vnexpress.net/tin-tuc/suc-khoe/bac-si-bo-quen-may-quay-trong-bung-benh-nhan-3607053.html"><img width=130 height=100 src="http://img.f44.suckhoe.vnecdn.net/2017/06/30/1498755854258-8321-1498804930_180x108.jpg" ></a></br>Sau ca ghép tạng, các bác sĩ Bệnh viện Đại học Emory (Mỹ) để quên máy quay trong bụng Lacrystal Lockett (Mỹ) mà không hay biết.]]></description>
-      <pubDate>Fri, 30 Jun 2017 14:02:21 +0700</pubDate>
-      <link>http://suckhoe.vnexpress.net/tin-tuc/suc-khoe/bac-si-bo-quen-may-quay-trong-bung-benh-nhan-3607053.html</link>
-      <guid>http://suckhoe.vnexpress.net/tin-tuc/suc-khoe/bac-si-bo-quen-may-quay-trong-bung-benh-nhan-3607053.html</guid>
-      <slash:comments>0</slash:comments>
+      <title><![CDATA[9 hiểu lầm về ngộ độc thực phẩm nhất định bạn phải biết]]></title>
+      <link><![CDATA[http://dantri.com.vn/suc-khoe/9-hieu-lam-ve-ngo-doc-thuc-pham-nhat-dinh-ban-phai-biet-20170701164205351.htm]]></link>
+      <guid isPermaLink="false"><![CDATA[64af43c8-a838-4df0-9d9c-9985635c86c2]]></guid>
+      <description><![CDATA[<a href="http://dantri.com.vn/suc-khoe/9-hieu-lam-ve-ngo-doc-thuc-pham-nhat-dinh-ban-phai-biet-20170701164205351.htm"><img src="https://dantricdn.com/zoom/80_50/2017/ngo-doc-thuc-pham-1-1498901060615-crop-1498901177389.jpg" /></a>]]></description>
+      <pubDate><![CDATA[Sat, 01 Jul 2017 16:41:00 GMT+7]]></pubDate>
     </item>
     <item>
-      <title>Ba phương án để Trump xây tường dọc biên giới Mexico</title>
-      <description><![CDATA[<a href="http://vnexpress.net/infographics/khoa-hoc/ba-phuong-an-de-trump-xay-tuong-doc-bien-gioi-mexico-3606949.html"><img width=130 height=100 src="http://img.f31.vnecdn.net/2017/06/30/ba-phuong-an-de-trump-xay-tuong-doc-bien-gioi-mexico-1498793218_180x108.jpg" ></a></br>Các kỹ sư xây dựng đưa ra ba phương án hiệu quả nhất nhằm xây dựng bức tường ngăn dọc biên giới Mexico theo đề xuất của Tổng thống Mỹ.]]></description>
-      <pubDate>Fri, 30 Jun 2017 14:00:00 +0700</pubDate>
-      <link>http://vnexpress.net/infographics/khoa-hoc/ba-phuong-an-de-trump-xay-tuong-doc-bien-gioi-mexico-3606949.html</link>
-      <guid>http://vnexpress.net/infographics/khoa-hoc/ba-phuong-an-de-trump-xay-tuong-doc-bien-gioi-mexico-3606949.html</guid>
-      <slash:comments>0</slash:comments>
+      <title><![CDATA[Chiến sĩ công an bị xe Container đẩy đi 300m đang được điều trị tại BV Việt Đức]]></title>
+      <link><![CDATA[http://dantri.com.vn/suc-khoe/chien-si-cong-an-bi-xe-container-day-di-300m-dang-duoc-dieu-tri-tai-bv-viet-duc-20170701083134386.htm]]></link>
+      <guid isPermaLink="false"><![CDATA[8d5e2f06-6a2a-4ab6-a5da-70aa4e06d97e]]></guid>
+      <description><![CDATA[<a href="http://dantri.com.vn/suc-khoe/chien-si-cong-an-bi-xe-container-day-di-300m-dang-duoc-dieu-tri-tai-bv-viet-duc-20170701083134386.htm"><img src="https://dantricdn.com/zoom/80_50/2017/canhsat1-1498872615181.jpg" /></a>]]></description>
+      <pubDate><![CDATA[Sat, 01 Jul 2017 08:33:00 GMT+7]]></pubDate>
     </item>
     <item>
-      <title>Súng bộ binh 'tàng hình' có thể giúp Mỹ thay đổi chiến trường</title>
-      <description><![CDATA[<a href="http://vnexpress.net/tin-tuc/the-gioi/quan-su/sung-bo-binh-tang-hinh-co-the-giup-my-thay-doi-chien-truong-3606113.html"><img width=130 height=100 src="http://img.f31.vnecdn.net/2017/06/28/Suppressor-1498647346_180x108.jpg" ></a></br>Quân đội Mỹ hy vọng việc trang bị ống giảm thanh đại trà có thể giúp bộ binh chiếm ưu thế dễ dàng hơn trên chiến trường.]]></description>
-      <pubDate>Fri, 30 Jun 2017 14:00:00 +0700</pubDate>
-      <link>http://vnexpress.net/tin-tuc/the-gioi/quan-su/sung-bo-binh-tang-hinh-co-the-giup-my-thay-doi-chien-truong-3606113.html</link>
-      <guid>http://vnexpress.net/tin-tuc/the-gioi/quan-su/sung-bo-binh-tang-hinh-co-the-giup-my-thay-doi-chien-truong-3606113.html</guid>
-      <slash:comments>0</slash:comments>
+      <title><![CDATA[Cảnh báo nguy cơ gây hại từ các loại đồ chơi mùa hè]]></title>
+      <link><![CDATA[http://dantri.com.vn/suc-khoe/canh-bao-nguy-co-gay-hai-tu-cac-loai-do-choi-mua-he-20170701064931017.htm]]></link>
+      <guid isPermaLink="false"><![CDATA[54a19f1c-c138-4633-aa3c-2b316d6a07eb]]></guid>
+      <description><![CDATA[<a href="http://dantri.com.vn/suc-khoe/canh-bao-nguy-co-gay-hai-tu-cac-loai-do-choi-mua-he-20170701064931017.htm"><img src="https://dantricdn.com/zoom/80_50/2017/copy-of-img-9817-1498700494572-1498866480132.jpg" /></a>]]></description>
+      <pubDate><![CDATA[Sat, 01 Jul 2017 06:48:00 GMT+7]]></pubDate>
     </item>
     <item>
-      <title>5 startup Việt vào Top 100 châu Á</title>
-      <description><![CDATA[<a href="http://startup.vnexpress.net/tin-tuc/xu-huong/5-startup-viet-vao-top-100-chau-a-3607020.html"><img width=130 height=100 src="https://i-startup.vnecdn.net/2017/06/30/echelon2-1498796709-9682-1498796797_180x108.jpg" ></a></br>Cinnamon, DesignBold, Swememo, Tripi, Money Lover vào Top 100 startup nổi bật trong sự kiện công nghệ Echelon Asia Summit 2017.]]></description>
-      <pubDate>Fri, 30 Jun 2017 13:55:00 +0700</pubDate>
-      <link>http://startup.vnexpress.net/tin-tuc/xu-huong/5-startup-viet-vao-top-100-chau-a-3607020.html</link>
-      <guid>http://startup.vnexpress.net/tin-tuc/xu-huong/5-startup-viet-vao-top-100-chau-a-3607020.html</guid>
-      <slash:comments>0</slash:comments>
+      <title><![CDATA[Sai phạm của ngành y tế Gia Lai: Thanh tra tỉnh vào cuộc thanh tra toàn diện]]></title>
+      <link><![CDATA[http://dantri.com.vn/suc-khoe/sai-pham-cua-nganh-y-te-gia-lai-thanh-tra-tinh-vao-cuoc-thanh-tra-toan-dien-20170630212501002.htm]]></link>
+      <guid isPermaLink="false"><![CDATA[d79bba5b-9b1b-44b8-b7f4-dfd9d97239f5]]></guid>
+      <description><![CDATA[<a href="http://dantri.com.vn/suc-khoe/sai-pham-cua-nganh-y-te-gia-lai-thanh-tra-tinh-vao-cuoc-thanh-tra-toan-dien-20170630212501002.htm"><img src="https://dantricdn.com/zoom/80_50/2017/so-y-te-tinh-gia-lai-1498827393506.jpg" /></a>]]></description>
+      <pubDate><![CDATA[Sat, 01 Jul 2017 04:38:00 GMT+7]]></pubDate>
     </item>
     <item>
-      <title>Những điện thoại tốt nhất trước 'kỷ nguyên iPhone'</title>
-      <description><![CDATA[<a href="http://sohoa.vnexpress.net/tin-tuc/san-pham/nhung-dien-thoai-tot-nhat-truoc-ky-nguyen-iphone-3606917.html"><img width=130 height=100 src="http://img.f8.sohoa.vnecdn.net/2017/06/30/motorolav3xx1800x533-1498797218_180x108.jpg" ></a></br>Nokia, BlackBerry, Motorola, Samsung là những thương hiệu sở hữu những điện thoại chất lượng trước khi Apple ra mắt iPhone.]]></description>
-      <pubDate>Fri, 30 Jun 2017 13:54:56 +0700</pubDate>
-      <link>http://sohoa.vnexpress.net/tin-tuc/san-pham/nhung-dien-thoai-tot-nhat-truoc-ky-nguyen-iphone-3606917.html</link>
-      <guid>http://sohoa.vnexpress.net/tin-tuc/san-pham/nhung-dien-thoai-tot-nhat-truoc-ky-nguyen-iphone-3606917.html</guid>
-      <slash:comments>0</slash:comments>
+      <title><![CDATA[Những điều cần làm để tránh con trẻ dễ bị say nắng]]></title>
+      <link><![CDATA[http://dantri.com.vn/suc-khoe/nhung-dieu-can-lam-de-tranh-con-tre-de-bi-say-nang-20170701112630927.htm]]></link>
+      <guid isPermaLink="false"><![CDATA[2813c21d-ada2-4050-a2e9-662a30fb277b]]></guid>
+      <description><![CDATA[<a href="http://dantri.com.vn/suc-khoe/nhung-dieu-can-lam-de-tranh-con-tre-de-bi-say-nang-20170701112630927.htm"><img src="https://dantricdn.com/zoom/80_50/2017/photo-1-1498882400654.jpg" /></a>]]></description>
+      <pubDate><![CDATA[Sat, 01 Jul 2017 03:24:00 GMT+7]]></pubDate>
     </item>
     <item>
-      <title>Ông Dương Công Minh làm Chủ tịch Sacombank</title>
-      <description><![CDATA[<a href="http://kinhdoanh.vnexpress.net/tin-tuc/ebank/ngan-hang/ong-duong-cong-minh-lam-chu-tich-sacombank-3606780.html"><img width=130 height=100 src="http://img.f27.kinhdoanh.vnecdn.net/2017/06/30/duongcongminhFNCS-1498804060-2041-1498805072_180x108.jpg" ></a></br>Ông Dương Công Minh được bầu làm Chủ tịch HĐQT Ngân hàng Sacombank với tỷ lệ phiếu bầu cao nhất.]]></description>
-      <pubDate>Fri, 30 Jun 2017 13:45:56 +0700</pubDate>
-      <link>http://kinhdoanh.vnexpress.net/tin-tuc/ebank/ngan-hang/ong-duong-cong-minh-lam-chu-tich-sacombank-3606780.html</link>
-      <guid>http://kinhdoanh.vnexpress.net/tin-tuc/ebank/ngan-hang/ong-duong-cong-minh-lam-chu-tich-sacombank-3606780.html</guid>
-      <slash:comments>0</slash:comments>
+      <title><![CDATA[Tác hại khôn lường khi quan hệ tình dục sớm]]></title>
+      <link><![CDATA[http://dantri.com.vn/suc-khoe/tac-hai-khon-luong-khi-quan-he-tinh-duc-som-2017063022291555.htm]]></link>
+      <guid isPermaLink="false"><![CDATA[c52643c2-7d7a-48e0-9567-cf447d292167]]></guid>
+      <description><![CDATA[<a href="http://dantri.com.vn/suc-khoe/tac-hai-khon-luong-khi-quan-he-tinh-duc-som-2017063022291555.htm"><img src="https://dantricdn.com/zoom/80_50/2017/tac-hai-khon-luong-khi-quan-he-tinh-duc-som1498725067-1498836460123.jpg" /></a>]]></description>
+      <pubDate><![CDATA[Fri, 30 Jun 2017 22:28:00 GMT+7]]></pubDate>
     </item>
     <item>
-      <title>Cô gái chết hụt vì xe khách đánh rơi thớt gỗ</title>
-      <description><![CDATA[<a href="http://vnexpress.net/tin-tuc/cong-dong/video/co-gai-chet-hut-vi-xe-khach-danh-roi-thot-go-3607002.html"><img width=130 height=100 src="http://img.f31.vnecdn.net/2017/06/30/d-2oi340j8d9s71-4076-1498796909_180x108.jpg" ></a></br>Quên khóa cốp xe, tài xế đã gây ra tai nạn cho cô gái ngay tại dốc đèo ở Hòa Bình.]]></description>
-      <pubDate>Fri, 30 Jun 2017 13:32:47 +0700</pubDate>
-      <link>http://vnexpress.net/tin-tuc/cong-dong/video/co-gai-chet-hut-vi-xe-khach-danh-roi-thot-go-3607002.html</link>
-      <guid>http://vnexpress.net/tin-tuc/cong-dong/video/co-gai-chet-hut-vi-xe-khach-danh-roi-thot-go-3607002.html</guid>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Công an triệu tập thêm phóng viên khi điều tra vụ 'nhà báo nhận tiền'</title>
-      <description><![CDATA[<a href="http://vnexpress.net/tin-tuc/phap-luat/cong-an-trieu-tap-them-phong-vien-khi-dieu-tra-vu-nha-bao-nhan-tien-3607044.html"><img width=130 height=100 src="http://img.f31.vnecdn.net/2017/06/30/nhabao-1498798624-6906-1498798809_180x108.jpg" ></a></br>Một phóng viên báo điện tử Giáo dục Việt Nam hôm qua phải tường trình về việc tác nghiệp tại tỉnh Yên Bái.]]></description>
-      <pubDate>Fri, 30 Jun 2017 13:14:10 +0700</pubDate>
-      <link>http://vnexpress.net/tin-tuc/phap-luat/cong-an-trieu-tap-them-phong-vien-khi-dieu-tra-vu-nha-bao-nhan-tien-3607044.html</link>
-      <guid>http://vnexpress.net/tin-tuc/phap-luat/cong-an-trieu-tap-them-phong-vien-khi-dieu-tra-vu-nha-bao-nhan-tien-3607044.html</guid>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Khách nữ té nước đuổi cá mập khỏi bãi biển Mỹ</title>
-      <description><![CDATA[<a href="http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-nu-te-nuoc-duoi-ca-map-khoi-bai-bien-my-3606829.html"><img width=130 height=100 src="http://img.f33.dulich.vnecdn.net/2017/06/30/russellsshark152waycustom1db53c145c26df4d6bcc95047d0036b7b1838551s900c85-1498793432_180x108.jpg" ></a></br>Những du khách có mặt trên bãi tắm tại Florida, Mỹ bất ngờ khi thấy ba con cá mập bơi giữa vùng nước nông.]]></description>
-      <pubDate>Fri, 30 Jun 2017 13:06:00 +0700</pubDate>
-      <link>http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-nu-te-nuoc-duoi-ca-map-khoi-bai-bien-my-3606829.html</link>
-      <guid>http://dulich.vnexpress.net/tin-tuc/quoc-te/khach-nu-te-nuoc-duoi-ca-map-khoi-bai-bien-my-3606829.html</guid>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Hươu đuôi trắng gửi con cho bạn để đối phó chó sói</title>
-      <description><![CDATA[<a href="http://vnexpress.net/tin-tuc/khoa-hoc/chuyen-la/huou-duoi-trang-gui-con-cho-ban-de-doi-pho-cho-soi-3606877.html"><img width=130 height=100 src="http://img.f32.vnecdn.net/2017/06/30/huou-1498793132_180x108.jpg" ></a></br>Hươu đuôi trắng cái chủ động nuôi con gần hươu la để con non được bảo vệ khỏi chó sói đồng cỏ.]]></description>
-      <pubDate>Fri, 30 Jun 2017 13:00:00 +0700</pubDate>
-      <link>http://vnexpress.net/tin-tuc/khoa-hoc/chuyen-la/huou-duoi-trang-gui-con-cho-ban-de-doi-pho-cho-soi-3606877.html</link>
-      <guid>http://vnexpress.net/tin-tuc/khoa-hoc/chuyen-la/huou-duoi-trang-gui-con-cho-ban-de-doi-pho-cho-soi-3606877.html</guid>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Ký ức của người phụ nữ Mỹ tổ chức lễ trao trả Hong Kong cho Trung Quốc</title>
-      <description><![CDATA[<a href="http://vnexpress.net/tin-tuc/the-gioi/tu-lieu/ky-uc-cua-nguoi-phu-nu-my-to-chuc-le-trao-tra-hong-kong-cho-trung-quoc-3606841.html"><img width=130 height=100 src="http://img.f31.vnecdn.net/2017/06/30/ST20170611SNHAND118L6U31976338-9422-7693-1498795735_180x108.jpg" ></a></br>Maureen Earls chứng kiến phút giây lịch sử từ khu vực điều khiển của lễ trao trả Hong Kong cho Trung Quốc.]]></description>
-      <pubDate>Fri, 30 Jun 2017 13:00:00 +0700</pubDate>
-      <link>http://vnexpress.net/tin-tuc/the-gioi/tu-lieu/ky-uc-cua-nguoi-phu-nu-my-to-chuc-le-trao-tra-hong-kong-cho-trung-quoc-3606841.html</link>
-      <guid>http://vnexpress.net/tin-tuc/the-gioi/tu-lieu/ky-uc-cua-nguoi-phu-nu-my-to-chuc-le-trao-tra-hong-kong-cho-trung-quoc-3606841.html</guid>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Trắc nghiệm tính từ và trạng từ trong tiếng Anh</title>
-      <description><![CDATA[<a href="http://vnexpress.net/tin-tuc/giao-duc/hoc-tieng-anh/trac-nghiem-tinh-tu-va-trang-tu-trong-tieng-anh-3606653.html"><img width=130 height=100 src="http://img.f31.vnecdn.net/2017/06/30/tracnghiemGIF-1498791525_180x108.gif" ></a></br>Bài trắc nghiệm đơn giản dưới đây sẽ giúp bạn nắm rõ hơn cách dùng trạng từ, tính từ trong tiếng Anh.]]></description>
-      <pubDate>Fri, 30 Jun 2017 13:00:00 +0700</pubDate>
-      <link>http://vnexpress.net/tin-tuc/giao-duc/hoc-tieng-anh/trac-nghiem-tinh-tu-va-trang-tu-trong-tieng-anh-3606653.html</link>
-      <guid>http://vnexpress.net/tin-tuc/giao-duc/hoc-tieng-anh/trac-nghiem-tinh-tu-va-trang-tu-trong-tieng-anh-3606653.html</guid>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Nhiều thông tin bổ ích tại triển lãm du học toàn cầu</title>
-      <description><![CDATA[<a href="http://vnexpress.net/tin-tuc/giao-duc/du-hoc/nhieu-thong-tin-bo-ich-tai-trien-lam-du-hoc-toan-cau-3606904.html"><img width=130 height=100 src="http://img.f29.vnecdn.net/2017/06/30/duhoc1-1498796104_180x108.jpg" ></a></br>Sự kiện giúp học sinh trao đổi với đại diện hơn 23 trường và tập đoàn giáo dục uy tín tại Australia về nguyện vọng và cơ hội du học.]]></description>
-      <pubDate>Fri, 30 Jun 2017 13:00:00 +0700</pubDate>
-      <link>http://vnexpress.net/tin-tuc/giao-duc/du-hoc/nhieu-thong-tin-bo-ich-tai-trien-lam-du-hoc-toan-cau-3606904.html</link>
-      <guid>http://vnexpress.net/tin-tuc/giao-duc/du-hoc/nhieu-thong-tin-bo-ich-tai-trien-lam-du-hoc-toan-cau-3606904.html</guid>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Kiều Minh Tuấn tư vấn tình yêu cho Ngô Kiến Huy trong phim</title>
-      <description><![CDATA[<a href="http://giaitri.vnexpress.net/tin-tuc/phim/sau-man-anh/kieu-minh-tuan-tu-van-tinh-yeu-cho-ngo-kien-huy-trong-phim-3606958.html"><img width=130 height=100 src="http://img.f11.giaitri.vnecdn.net/2017/06/30/KieuMinhTuanNgoKienHuy-1498796511_180x108.jpg" ></a></br>Trong "Yêu đi, đừng sợ", người yêu Cát Phượng đóng vai bạn thân của Ngô Kiến Huy.]]></description>
-      <pubDate>Fri, 30 Jun 2017 12:37:32 +0700</pubDate>
-      <link>http://giaitri.vnexpress.net/tin-tuc/phim/sau-man-anh/kieu-minh-tuan-tu-van-tinh-yeu-cho-ngo-kien-huy-trong-phim-3606958.html</link>
-      <guid>http://giaitri.vnexpress.net/tin-tuc/phim/sau-man-anh/kieu-minh-tuan-tu-van-tinh-yeu-cho-ngo-kien-huy-trong-phim-3606958.html</guid>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Cơ quan khảo sát ý kiến dừng xe máy: Chúng tôi không gian dối</title>
-      <description><![CDATA[<a href="http://vnexpress.net/tin-tuc/thoi-su/giao-thong/co-quan-khao-sat-y-kien-dung-xe-may-chung-toi-khong-gian-doi-3607045.html"><img width=130 height=100 src="http://img.f31.vnecdn.net/2017/06/30/ongMuoi-1498798544-3677-149879-7996-8611-1498801011_180x108.jpg" ></a></br>Cơ quan lập đề án hạn chế xe cá nhân ở Hà Nội khẳng định kết quả khảo sát người dân với đa số ủng hộ đề án là trung thực. ]]></description>
-      <pubDate>Fri, 30 Jun 2017 12:35:38 +0700</pubDate>
-      <link>http://vnexpress.net/tin-tuc/thoi-su/giao-thong/co-quan-khao-sat-y-kien-dung-xe-may-chung-toi-khong-gian-doi-3607045.html</link>
-      <guid>http://vnexpress.net/tin-tuc/thoi-su/giao-thong/co-quan-khao-sat-y-kien-dung-xe-may-chung-toi-khong-gian-doi-3607045.html</guid>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Ngôi trường có học phí đắt nhất thế giới</title>
-      <description><![CDATA[<a href="http://video.vnexpress.net/tin-tuc/giao-duc/ngoi-truong-co-hoc-phi-dat-nhat-the-gioi-3606957.html"><img width=130 height=100 src="http://img.f30.vnecdn.net/2017/06/30/HcvinLeResoy-1498793428-4764-1498793536_180x108.jpg" ></a></br>Với học phí mỗi năm 87.300 bảng Anh, Học viện Le Rosey (Thụy Sĩ) là trường đắt đỏ nhất thế giới, theo Business Insider.]]></description>
-      <pubDate>Fri, 30 Jun 2017 12:29:10 +0700</pubDate>
-      <link>http://video.vnexpress.net/tin-tuc/giao-duc/ngoi-truong-co-hoc-phi-dat-nhat-the-gioi-3606957.html</link>
-      <guid>http://video.vnexpress.net/tin-tuc/giao-duc/ngoi-truong-co-hoc-phi-dat-nhat-the-gioi-3606957.html</guid>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Cảnh sát Thái gây sốt vì thuyết phục người cầm dao buông vũ khí</title>
-      <description><![CDATA[<a href="http://vnexpress.net/tin-tuc/the-gioi/cuoc-song-do-day/canh-sat-thai-gay-sot-vi-thuyet-phuc-nguoi-cam-dao-buong-vu-khi-3606927.html"><img width=130 height=100 src="http://img.f31.vnecdn.net/2017/06/30/canh-sat-thai-khuyen-nguoi-cam-5532-6130-1498799347_180x108.jpg" ></a></br>Video sĩ quan Thái Lan khuyên người đàn ông cầm dao xông vào đồn cảnh sát bỏ vũ khí thu hút hơn 90 triệu lượt xem.]]></description>
-      <pubDate>Fri, 30 Jun 2017 12:28:09 +0700</pubDate>
-      <link>http://vnexpress.net/tin-tuc/the-gioi/cuoc-song-do-day/canh-sat-thai-gay-sot-vi-thuyet-phuc-nguoi-cam-dao-buong-vu-khi-3606927.html</link>
-      <guid>http://vnexpress.net/tin-tuc/the-gioi/cuoc-song-do-day/canh-sat-thai-gay-sot-vi-thuyet-phuc-nguoi-cam-dao-buong-vu-khi-3606927.html</guid>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Người đẹp gốc Việt tiếc cảnh nóng bị cắt trong phim 'Bầu trời đỏ'</title>
-      <description><![CDATA[<a href="http://giaitri.vnexpress.net/tin-tuc/gioi-sao/trong-nuoc/nguoi-dep-goc-viet-tiec-canh-nong-bi-cat-trong-phim-bau-troi-do-3606803.html"><img width=130 height=100 src="http://img.f10.giaitri.vnecdn.net/2017/06/30/canh-nong-2-8512-1498793437_180x108.jpg" ></a></br>Diễn viên Audrey Giacomini hụt hẫng khi bản phim Pháp chiếu ở Việt Nam không còn cảnh diễn cô yêu thích.]]></description>
-      <pubDate>Fri, 30 Jun 2017 12:24:25 +0700</pubDate>
-      <link>http://giaitri.vnexpress.net/tin-tuc/gioi-sao/trong-nuoc/nguoi-dep-goc-viet-tiec-canh-nong-bi-cat-trong-phim-bau-troi-do-3606803.html</link>
-      <guid>http://giaitri.vnexpress.net/tin-tuc/gioi-sao/trong-nuoc/nguoi-dep-goc-viet-tiec-canh-nong-bi-cat-trong-phim-bau-troi-do-3606803.html</guid>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Xe buýt hai tầng mui trần chạy thử ở thủ đô</title>
-      <description><![CDATA[<a href="http://vnexpress.net/photo/giao-thong/xe-buyt-hai-tang-mui-tran-chay-thu-o-thu-do-3607042.html"><img width=130 height=100 src="http://img.f32.vnecdn.net/2017/06/30/IMG-4617-JPG_180x108.jpg" ></a></br>Sáng 30/6, TP Hà Nội tổ chức chạy thử xe buýt hai tầng mui trần qua các di tích, thắng cảnh nổi tiếng.]]></description>
-      <pubDate>Fri, 30 Jun 2017 12:21:48 +0700</pubDate>
-      <link>http://vnexpress.net/photo/giao-thong/xe-buyt-hai-tang-mui-tran-chay-thu-o-thu-do-3607042.html</link>
-      <guid>http://vnexpress.net/photo/giao-thong/xe-buyt-hai-tang-mui-tran-chay-thu-o-thu-do-3607042.html</guid>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Những cuộc chia tay đòi quà khiến các cô gái điêu đứng</title>
-      <description><![CDATA[<a href="http://giadinh.vnexpress.net/tin-tuc/to-am/nhung-cuoc-chia-tay-doi-qua-khien-cac-co-gai-dieu-dung-3606955.html"><img width=130 height=100 src="http://img.f14.giadinh.vnecdn.net/2017/06/30/doiqua-1498799696_180x108.jpg" ></a></br>"Trả lại 500 triệu tiền tôi xin việc, mua đồ hiệu cho cô, không thì đừng mơ mặc váy cưới", Nhung (Hà Nội) tái mặt khi đọc tin nhắn từ người cũ.]]></description>
-      <pubDate>Fri, 30 Jun 2017 12:21:42 +0700</pubDate>
-      <link>http://giadinh.vnexpress.net/tin-tuc/to-am/nhung-cuoc-chia-tay-doi-qua-khien-cac-co-gai-dieu-dung-3606955.html</link>
-      <guid>http://giadinh.vnexpress.net/tin-tuc/to-am/nhung-cuoc-chia-tay-doi-qua-khien-cac-co-gai-dieu-dung-3606955.html</guid>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Người phụ nữ Trung Quốc trèo qua cửa sổ xe buýt đánh nhau với tài xế</title>
-      <description><![CDATA[<a href="http://vnexpress.net/tin-tuc/the-gioi/cuoc-song-do-day/nguoi-phu-nu-trung-quoc-treo-qua-cua-so-xe-buyt-danh-nhau-voi-tai-xe-3606831.html"><img width=130 height=100 src="http://img.f32.vnecdn.net/2017/06/30/busfight31-1498786348_180x108.jpg" ></a></br>Một phụ nữ đã chui qua cửa sổ xe buýt để đánh nhau với tài xế ở Trung Quốc sau một vụ va chạm giao thông.]]></description>
-      <pubDate>Fri, 30 Jun 2017 12:15:48 +0700</pubDate>
-      <link>http://vnexpress.net/tin-tuc/the-gioi/cuoc-song-do-day/nguoi-phu-nu-trung-quoc-treo-qua-cua-so-xe-buyt-danh-nhau-voi-tai-xe-3606831.html</link>
-      <guid>http://vnexpress.net/tin-tuc/the-gioi/cuoc-song-do-day/nguoi-phu-nu-trung-quoc-treo-qua-cua-so-xe-buyt-danh-nhau-voi-tai-xe-3606831.html</guid>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Cưỡng bức bất thành, 'yêu râu xanh' lĩnh 7 năm tù</title>
-      <description><![CDATA[<a href="http://vnexpress.net/tin-tuc/phap-luat/cuong-buc-bat-thanh-yeu-rau-xanh-linh-7-nam-tu-3606778.html"><img width=130 height=100 src="http://img.f30.vnecdn.net/2017/06/30/hiepdam-1498755816_180x108.jpg" ></a></br>Lừa bạn đi về trước để có cơ hội hiếp dâm cô bạn nhưng Công không thể thực hiện ý đồ xấu do nạn nhân chống cự quyết liệt.]]></description>
-      <pubDate>Fri, 30 Jun 2017 12:15:11 +0700</pubDate>
-      <link>http://vnexpress.net/tin-tuc/phap-luat/cuong-buc-bat-thanh-yeu-rau-xanh-linh-7-nam-tu-3606778.html</link>
-      <guid>http://vnexpress.net/tin-tuc/phap-luat/cuong-buc-bat-thanh-yeu-rau-xanh-linh-7-nam-tu-3606778.html</guid>
-      <slash:comments>0</slash:comments>
+      <title><![CDATA[Vỡ bàng quang sau cuộc nhậu, “bia” tràn vào ổ bụng]]></title>
+      <link><![CDATA[http://dantri.com.vn/suc-khoe/vo-bang-quang-sau-cuoc-nhau-bia-tran-vao-o-bung-20170630214355951.htm]]></link>
+      <guid isPermaLink="false"><![CDATA[40fbf41a-548b-4975-af58-1adb70e9d302]]></guid>
+      <description><![CDATA[<a href="http://dantri.com.vn/suc-khoe/vo-bang-quang-sau-cuoc-nhau-bia-tran-vao-o-bung-20170630214355951.htm"><img src="https://dantricdn.com/zoom/80_50/2017/bang-quang-1498822142528.jpg" /></a>]]></description>
+      <pubDate><![CDATA[Fri, 30 Jun 2017 19:46:00 GMT+7]]></pubDate>
     </item>
   </channel>
 </rss>
