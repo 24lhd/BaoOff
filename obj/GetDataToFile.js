@@ -12,6 +12,7 @@ module.exports = function(LinkURL, AddressFile, callback) {
      http - sử dụng các phương thức http để lấy dữ liệu
      fs - file system để quản lý file
      */
+
     var http = require('http');
     var fs = require('fs');
     /*

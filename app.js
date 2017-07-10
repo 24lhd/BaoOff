@@ -3,8 +3,6 @@ var fs = require('fs');
 var xml2js = require('xml2js');
 var parser = new xml2js.Parser();
 var file = fs.createWriteStream(__dirname + "/public/data.xml");
-
-
 var request = http.get("http://dantri.com.vn/suc-khoe.rss", function(response) {
     response.pipe(file);
     response.on("end", function() {

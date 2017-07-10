@@ -111,33 +111,8 @@ var ItemVnExpress = {
     descriptionText: "<a href=\"http://vnexpress.net/tin-tuc/thoi-su/quang-ngai-dinh-chi-10-cano-cho-khach-qua-dao-be-ly-son-3607732.html\"><img width=130 height=100 src=\"http://img.f29.vnecdn.net/2017/07/02/daobe-1498992228_180x108.jpg\" ></a></br>Các canô chở khách từ đảo Lớn sang đảo Bé (đảo Lý Sơn, Quảng Ngãi) bị đình chỉ do không đạt chuẩn, tiềm ẩn nguy cơ cho du khách.",
     pubDate: "Sun, 02 Jul 2017 18:02:42 +0700",
     link: "http://vnexpress.net/tin-tuc/thoi-su/quang-ngai-dinh-chi-10-cano-cho-khach-qua-dao-be-ly-son-3607732.html",
-    contentHead: `<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <title></title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-        img,
-        video {
-            width: 100%
-        }
-        
-        .block_timer_share {
-            display: none;
-        }
-        
-        .social_share {
-            display: none;
-        }
-    </style>
-</head>
-
-<body>`,
-    contentFoot: `</body>
-
-</html>`,
+    contentHead: ``,
+    contentFoot: ``,
     contentBody: "",
     linkImg: ["", ""]
 }
